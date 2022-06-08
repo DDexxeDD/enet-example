@@ -2,13 +2,10 @@
 
 This is an example program using:
 
-[enet](https://github.com/lsalzman/enet)
-
-[sokol](https://github.com/floooh/sokol)
-
-[nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
-
-[pthreads](https://en.wikipedia.org/wiki/Pthreads)
+- [enet](https://github.com/lsalzman/enet)
+- [sokol](https://github.com/floooh/sokol)
+- [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
+- [pthreads](https://en.wikipedia.org/wiki/Pthreads)
 
 If you find any issues or would like to see something implemented (something small),
 make an issue. I would like for this to be useful to someone, so if it can be better,
