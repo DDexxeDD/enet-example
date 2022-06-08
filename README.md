@@ -1,12 +1,16 @@
 # enet, sokol, nuklear, pthreads example
 
 This is an example program using:
+
 [enet](https://github.com/lsalzman/enet)
+
 [sokol](https://github.com/floooh/sokol)
+
 [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
+
 [pthreads](https://en.wikipedia.org/wiki/Pthreads)
 
-If you find any issues or would like to see something implemented (something smalle),
+If you find any issues or would like to see something implemented (something small),
 make an issue. I would like for this to be useful to someone, so if it can be better,
 that would be great :)
 
@@ -55,3 +59,10 @@ Notices about sent and received packets, as well as launched/shutting down
 servers/clients, are printed on the console.
 
 To exit, press ESC or close the window.
+
+
+## Licenses
+
+The code in this repository is licensed under CC0.
+
+Licenses for the included libraries are in their respective folders in libs.
